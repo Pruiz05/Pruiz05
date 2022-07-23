@@ -2,8 +2,8 @@
 <h3 align="left">A passionate developer from Dominican Republic</h3>
 
 - 🔭 I'm currently working in a dealer company and projects as a freelancer
-- 🌱 I'm currently learning `Python` `Quasar` `Next`
-- ☕ I'm drinking coffee and coding
+- 🌱 Learning `Python`
+- ☕ Coffee + coding
 - 🎵 I'm a DevStar not a Doctor
 
 
