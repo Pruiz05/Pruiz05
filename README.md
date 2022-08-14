@@ -15,7 +15,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruiz05&show_icons=true&locale=en&theme=dark" alt="pruiz05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruiz05&show_icons=true&locale=en&theme=radical&count_private=true" alt="pruiz05" /></p>
 
 <!--
 **Pruiz05/Pruiz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
