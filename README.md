@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Pedro Luis</h1>
 <h3 align="left">A passionate developer from Dominican Republic</h3>
-- 🔭 I'm currently working in Concentra (Backend .Net) and projects as a freelancer (Fullsatck)<br>
+- 🔭 I'm currently working in Concentra (Backend .Net) and projects as a freelancer (Fullstack)<br>
 - 🌱 Learning `Python`<br>
 - ☕ Coffee + coding<br>
 - 🎵 I'm a DevStar not a Doctor
