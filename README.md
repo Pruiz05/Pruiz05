@@ -1,9 +1,10 @@
-<h1 align="left">Hi 👋, I'm Pedro Luis</h1>
-<h3 align="left">Detail-oriented backend engineer with eight years of experience building robust and scalable server-side applications</h3>
-- 🔭 I'm currently working in Concentra (Backend .Net) and projects as a freelancer (Fullstack)<br>
-- 🌱 Learning `Python`<br>
-- ☕ Coffee + coding<br>
-- 🎵 I'm a DevStar not a Doctor
+<h1 align="left">Hi 👋, I'm Pedro Luis</h1> <h3 align="left">Versatile Fullstack Engineer with 8+ Years of Experience Building Scalable Applications</h3>
+
+- 🔭 Currently working at Concentra as a Backend Engineer (using .NET) and also taking on Fullstack projects as a freelancer.
+- 🌱 Expanding my skills by learning Python.
+- 💻 Experienced in both backend and frontend development, delivering end-to-end solutions.
+- ☕ Fuelled by coffee and code.
+- 🎵 I'm a DevStar, not a Doctor.
 
 
 # 💻 Tech Stack:
